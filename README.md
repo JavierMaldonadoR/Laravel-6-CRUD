@@ -1,6 +1,6 @@
 # Laravel 6 CRUD
 
-This is a simple Laravel 5 CRUD for academic purpose. 
+This is a simple Laravel 5 CRUD for an academic purpose. 
 
 (*The project is finished and working but is being improved.)
 
@@ -24,8 +24,8 @@ This is a simple Laravel 5 CRUD for academic purpose.
 
 * [Webpack](https://webpack.js.org)
 
-*CSS
+* [Boostrap 4](https://getbootstrap.com/docs/4.0)
 
-*Boostrap 4
+* [CSS]
 
-*JS
+* [JS]
