@@ -26,6 +26,6 @@ This is a simple Laravel 5 CRUD for an academic purpose.
 
 * [Boostrap 4](https://getbootstrap.com/docs/4.0)
 
-* [CSS]
+* CSS
 
-* [JS]
+* JS
