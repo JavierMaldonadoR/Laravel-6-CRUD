@@ -16,15 +16,15 @@ This is a simple Laravel 5 CRUD for an academic purpose.
 
 * [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
-* [Node Js](https://nodejs.org/es/)
+* [Node.js](https://nodejs.org/es/)
 
 * [NPM](https://www.npmjs.com)
 
-* [VUE Js](https://vuejs.org)
+* [Vue.js](https://vuejs.org)
 
 * [Webpack](https://webpack.js.org)
 
-* [Boostrap 4](https://getbootstrap.com/docs/4.0)
+* [Bootstrap 4](https://getbootstrap.com/docs/4.0)
 
 * CSS
 
