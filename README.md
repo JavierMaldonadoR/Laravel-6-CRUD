@@ -2,8 +2,6 @@
 
 This is a simple Laravel 5 CRUD for an academic purpose. 
 
-(*The project is finished and working but is being improved.)
-
 ## Built With
 
 * [LARAVEL 6.1.0](https://laravel.com)
